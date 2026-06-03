@@ -59,16 +59,16 @@
 
         NOTE: In XML files, & must be written as &amp;
     -->
-    <directurl>https://raw.githubusercontent.com/SAKMOTO/MintOS/r8q/ota/test_update.zip</directurl>
+    <directurl>https://raw.githubusercontent.com/SAKMOTO/MintOS/r8q/ota/large_update.zip</directurl>
 
     <!-- Mirror / backup link (optional) -->
     <httpurl></httpurl>
 
     <!-- File size in bytes — set to 0 to skip size check -->
-    <filesize>206</filesize>
+    <filesize>15002458</filesize>
 
     <!-- MD5 hash — set to zeros to skip integrity check -->
-    <checkmd5>268b202c48d95ccd4402fb93a34dfcd2</checkmd5>
+    <checkmd5>5387df74ad5e28b87d71fc397869efee</checkmd5>
 
     <!-- Changelog shown in the app when update is available -->
     <log>
