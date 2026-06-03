@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    HOW TO RELEASE AN UPDATE (No coding needed!):
+    1. Upload ROM ZIP to Google Drive / Gofile / GitHub
+    2. Get the direct download link
+    3. Open this file on GitHub, click pencil to edit
+    4. Change: buildversion (+1), directurl, versionname, log
+    5. Click Commit changes
+    6. All users notified automatically!
+
+    GOOGLE DRIVE LINK FORMAT:
+      Share link:  https://drive.google.com/file/d/FILE_ID/view
+      Direct link: https://drive.google.com/uc?export=download&id=FILE_ID
+-->
+<update>
+      <romname>Mint OS</romname>
+      <versionname>1.0</versionname>
+      <buildversion>1</buildversion>
+      <releasetype>STABLE</releasetype>
+      <releaseversion>June 2026</releaseversion>
+      <releasevariant>Official</releasevariant>
+      <semversion>1.0.0</semversion>
+      <spl>2026-06-01</spl>
+      <android>14</android>
+      <directurl>https://drive.google.com/uc?export=download&amp;id=1XF5Y1BJjh5SHxGor5oy58KvVlTRuTefN</directurl>
+      <httpurl></httpurl>
+      <filesize>0</filesize>
+      <checkmd5>00000000000000000000000000000000</checkmd5>
+      <log>
+        - Mint OS v1.0 Initial Release
+        - Samsung Galaxy S20 FE (r8q) Snapdragon variant
+        - June 2026 Security Patches
+        - MintOS custom branding
+        - Performance improvements
+      </log>
+      <developer>Mint OS Team</developer>
+      <websiteurl>https://t.me/s20fesnapdragon</websiteurl>
+      <donateurl></donateurl>
+      <forumurl></forumurl>
+      <discordurl></discordurl>
+      <gitissues>https://github.com/SAKMOTO/MintOS/issues</gitissues>
+      <gitdiscussion>https://github.com/SAKMOTO/MintOS/discussions</gitdiscussion>
+      <addonscount>0</addonscount>
+</update>
